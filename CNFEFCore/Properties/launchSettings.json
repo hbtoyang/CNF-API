@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CNFEFCore": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ConnectionStrings:CNFEFCore": "Value"
+      }
+    }
+  }
+}
